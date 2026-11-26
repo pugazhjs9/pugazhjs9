@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on full-stack applications, cloud automation, and ML-powered tools like Kernel Monitor.<br><br>
+🔭 Recently built **ReplicaFS** (self-healing distributed file storage, 333 tests) and **PayForge** (payment gateway API with idempotency, a double-entry ledger and reliable webhooks, 288 tests).<br><br>
 👯 I’m looking to collaborate on full-stack applications, API integrations, and ML-powered projects.<br><br>
 🤝 I’m looking for help with advanced system design and scaling cloud applications.<br><br>
 🌱 I’m currently learning more about distributed systems, AWS architecture, and machine learning.<br><br>
